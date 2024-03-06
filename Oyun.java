@@ -2,11 +2,9 @@ package org.rps;
 
 import org.rps.base.Nesne;
 import org.rps.base.Oyuncu;
-import org.rps.gui.Home;
 import org.rps.player.Bilgisayar;
 import org.rps.player.Kullanici;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class Oyun {
