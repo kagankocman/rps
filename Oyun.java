@@ -18,11 +18,11 @@ public class Oyun {
         boolean hamlelerBittiMi = true;
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Hamle sayısı gir : ");
+        System.out.print("Hamle sayısı gir : ");
         int hamleSayisi = sc.nextInt();
 
         sc = new Scanner(System.in);
-        System.out.println("Kullanıcı - Bilgisayar için 1'e, Bilgisayar - Bilgisayar için 2'ye basın:");
+        System.out.print("Kullanıcı - Bilgisayar için 1'e, Bilgisayar - Bilgisayar için 2'ye basın:");
 
         int secim = sc.nextInt();
 
